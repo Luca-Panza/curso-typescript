@@ -4,7 +4,7 @@
     "esModuleInterop": true,
     "module": "CommonJS",
     "moduleResolution": "Node",
-    "baseUrl": "aula-ts-03",
+    "baseUrl": "aula-ts-04",
   },
   "ts-node": {
     "esm": true
